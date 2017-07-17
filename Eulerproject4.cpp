@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// main() is where program execution begins.
+// Problem: Find the largest palindrome made from the product of two 3-digit numbers.
 
 int main() {
   bool numberfound = false;
