@@ -3,7 +3,7 @@
 #include <math.h>
 using namespace std;
 
-// main() is where program execution begins.
+// There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find the product abc.
 
 int main() {
   float c = 1;
