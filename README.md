@@ -1,2 +1,2 @@
 # eulerprojectstuff
-me doing problems from the euler project (all c++)
+Solutions to assorted problems from https://projecteuler.net/
