@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//problem: What is the largest prime factor of the number 600851475143 ?
+
 int swap(int n){
 int reverse = 0;
 int remainder;
