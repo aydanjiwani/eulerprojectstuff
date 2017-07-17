@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// main() is where program execution begins.
+// Problem: By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
 int main() {
   int i = 1;
