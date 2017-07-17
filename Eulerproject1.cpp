@@ -7,7 +7,7 @@
 
 using namespace std;
 
-// main() is where program execution begins.
+// Problem: Find the sum of all the multiples of 3 or 5 below 1000.
 
 int main() {
 srand((unsigned)time(0));
